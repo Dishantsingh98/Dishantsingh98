@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dishantsingh98
+- 👋 Hi, I’m Dishant Singh
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on learning UX desinging concepts.
